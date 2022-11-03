@@ -18,7 +18,7 @@
 <h4> I constantly deepen my knowledge to be a better Laravel Developer.</h4>
 <ul>
   <li>:coffee: We should queue up a chat. I’ll buy the coffee : <a href="https://www.linkedin.com/in/hamza-echamlali/" target="_blank"> linkedin </a></li>
-  <li>:art: I'm very inspired when it comes to creating : <a href="https://github.com/16h16?tab=repositories"> portfolio </a></li>
+  <li>:art: I'm very inspired when it comes to creating : <a href="https://github.com/16h16?tab=repositories" target="_blank"> portfolio </a></li>
   <li>🎓 Let me tell you more about my experiences and skills : <a href="https://www.canva.com/design/DAFQMEmTRHk/atGlqmatSeslqeCObfW_6w/view?utm_content=DAFQMEmTRHk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"> Resume </a></li>
   <li>💻 Take a look at what I'm working on right now : <a href="https://www.quarere.be" target="_blank"> Current project </a></li>  
 </ul>
