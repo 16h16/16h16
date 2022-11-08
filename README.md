@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Hamza 👋</h1>
-<h3 align="center">The talented Junior PHP Developer you're looking for.</h3>
+<h3 align="center">The Junior PHP Developer you're looking for.</h3>
 <!-- LOGO LANGUAGES START -->
 </p>
 <p align="center"> 
