@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Hamza 👋</h1>
-<h3 align="center">The talented Junior Laravel Developer you're looking for.</h3>
+<h3 align="center">The talented Junior PHP Developer you're looking for.</h3>
 <!-- LOGO LANGUAGES START -->
 <p align="center"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
@@ -15,7 +15,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 <!-- LOGO LANGUAGES END -->
-<h4> I constantly deepen my knowledge to be a better Laravel Developer.</h4>
+<h4> I constantly deepen my knowledge to be a better PHP Developer.</h4>
 <ul>
   <li>:coffee: We should queue up a chat. I’ll buy the coffee : <a href="https://www.linkedin.com/in/hamza-echamlali/" target="_blank"> linkedin </a></li>
   <li>:art: I'm very inspired when it comes to creating : <a href="https://16h16.github.io/portfolio/" target="_blank"> portfolio </a></li>
