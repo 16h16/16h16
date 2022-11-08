@@ -23,7 +23,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 <!-- LOGO LANGUAGES END -->
-<p>I constantly deepen my knowledge to be a better PHP Developer. This allows me to carry out a wide variety of projects regardless of their difficulties. It is with this in mind that I shape your project from the conception to its realization.</p>
+<p>I constantly deepen my knowledge to be a better PHP Developer. This allows me to carry out a wide variety of projects regardless of their difficulties. It is with this in mind that I shape projects from the conception to its realization.</p>
 
 <ul>
     <li>:art: I’m very inspired when it comes to creating projects. Look at some creations I’ve been working on recently : <a href="https://16h16.github.io/portfolio/" target="_blank"> Portfolio </a></li>
