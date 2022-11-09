@@ -28,4 +28,4 @@
  <li>🔗 Usefull links</li>
 </ul>
 
-<a href="[wwww.google.com](https://linktr.ee/16h16)"><img src="https://zupimages.net/up/22/45/y7mk.png" alt="" /></a>
+<a href="https://linktr.ee/16h16"><img src="https://zupimages.net/up/22/45/y7mk.png" alt="" /></a>
