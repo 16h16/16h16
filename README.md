@@ -28,4 +28,4 @@
  <li>🔗 Usefull links</li>
 </ul>
 
-<img src="https://zupimages.net/up/22/45/y7mk.png" alt="" />
+<a href="wwww.google.com"><img src="https://zupimages.net/up/22/45/y7mk.png" alt="" /></a>
