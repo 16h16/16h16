@@ -25,5 +25,7 @@
   <li>:coffee: Interested in working together? We should open up a chat. I’ll buy the coffee : <a href="https://www.linkedin.com/in/hamza-echamlali/" target="_blank"> LinkedIn </a></li>
   <li>💻 Take a moment to see what I'm working on right now : <a href="https://www.quarere.be" target="_blank"> Current project </a></li>
   <li>🎓 Let me tell you more about my experiences : <a href="https://www.canva.com/design/DAFQMEmTRHk/atGlqmatSeslqeCObfW_6w/view?utm_content=DAFQMEmTRHk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"> Resume </a></li>
+ <li>🔗 Usefull links</li>
 </ul>
 
+<img src="https://zupimages.net/up/22/45/y7mk.png" alt="" />
